@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on web development with blockchain/smart contract interaction
-- 🌱 I’m currently learning linux, cloud, automation tools
+- 🌱 I’m currently learning building browser
 - 📫 Reach me: huytd2k@gmail.com
 - My Blog: [mikey2key](https://mikey2key.vercel.app/)
 - 😄 Pronouns: he/him
